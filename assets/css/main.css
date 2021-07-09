@@ -1469,7 +1469,7 @@ input, select, textarea {
 		-webkit-user-select: none;
 		background: #1f2224;
 		bottom: 0em;
-		height: 5em;
+		/*height: 5em;*/
 		left: 0;
 		line-height: 4em;
 		padding: 0 1.5em;
