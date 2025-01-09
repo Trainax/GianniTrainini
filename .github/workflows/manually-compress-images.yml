@@ -1,6 +1,6 @@
 # Compress images on demand (workflow_dispatch).
 # Open a Pull Request if any images can be compressed.
-name: Compress Images
+name: Manually Compress Images
 
 on:
   workflow_dispatch:
